@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joke Library</string>
+    <string name="error_message">Error:Joke not received</string>
+</resources>

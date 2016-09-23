@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/stark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/support-annotations-24.2.1_d5ded948837d26c5c2b8688569f8eee26308414c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/guava-jdk5-13.0_2ea98dd7d6a2c15cad7baf523e9dd9abd49cb490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_9db9a14755c3acaf900fc1a9e6bf0bcae43a549f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e05929b9ad13c8d4ce21d41a0f4a70b8475fc7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jackson-core-2.1.3_6df83b5555bb921dc41ebd2cf2bbaf4904f3ae17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_754736a22639d775a31bb9739321d2d5c5e38773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9da28980f90afe37ce59b7b0db7932acb9cb152">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run_cdc4632932f0f9501194a3a6302236c5a3247f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-jackson2-1.20.0_b4f57480f0e404932e8c303ead1cf880e3afee77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-oauth-client-1.20.0_4b90b15755cf0d21b0f6e915096977d121e9b7a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_32588d3ede6bf8248d67b048482f43b4daa521e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40ca4dde8cdacfa2a7adb332b0505ed940c5e172">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run-bootstrap_16945df377e17d738d57cfe57db8bdf40ab22aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-1.20.0_f2b2933028a620a21a0c295f9e0e3c8522fcf9c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.1_05e39c60a722fb5ce493037a855111109f82be7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.1_49d1029f3c55340fdbffb492aca792031d40e219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-multidex-1.0.1_ca193cdba4126ef289577c936d8f1fa01b792493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_b683a369cf06cb8334934251e718f1478350b067/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bc708b924b770bb358703ea2e030ea8ca6bdbc2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jsr305-2.0.1_1fa849a9777bb5d5bb55322a6e25e1b28e5a37cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-android-1.20.0_9f2d01c0e16ba8637ec5cfea50a768c822ab00bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.1_36ba4683d1f252d9bb4449452e5777691248af88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_96d08a35c7d3ab5e103db70bfcb20a0c3d095011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_decfc6077dc7eb74c6427cd133e0e86cf5fd1bc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-android-1.20.0_51a823dd5f1b35f48649041bcb1471b1cd4488b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-compat-24.2.1_113b25866ba33476ae631112e749db33d030fc37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_deaebb95334bfe3730f67658e9c1a4436f074e77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-v4-24.2.1_846eb08d543b11459f20f0e43aad7e6004e9e81d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_0fff8fbc6f7783b5405ab8894b483cf1ffd83e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_52e268062ef35c9e1e97185a06acea9c717483d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_429df24c8ea0ed4731183b4864d4419b40cd642f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.1_8ee7296c4f72f790fe24eb043523101bf43bb879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_0a60bd49fbcb4c008a33684abaeac7113e389741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-1.20.0_3cedb53cc870d01376026930c060d400ae461e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_935e901914844f4e4e30d4a524ab9607de6042a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/stark/Udacity/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.1_98f159ccea5b7e0192b1281b1746bbc85e94ba1d/classes.dex" />
+    </item>
+
+</items>
